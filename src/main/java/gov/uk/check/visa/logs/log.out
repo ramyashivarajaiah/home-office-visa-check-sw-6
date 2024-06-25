@@ -1,0 +1,31 @@
+2024-06-26 00:06:279 INFO  StartPage :30 - Clicking on AcceptCookies : [[ChromeDriver: chrome on windows (59932ca4725e38f921f8769fbd4a15fc)] -> xpath: //button[normalize-space()='Accept additional cookies']]
+2024-06-26 00:06:335 INFO  StartPage :35 - Mouse hovering on hide this message text : [[ChromeDriver: chrome on windows (59932ca4725e38f921f8769fbd4a15fc)] -> xpath: //button[@class='gem-c-cookie-banner__hide-button govuk-button']]
+2024-06-26 00:06:481 INFO  StartPage :40 - Clicking on Start button : [[ChromeDriver: chrome on windows (59932ca4725e38f921f8769fbd4a15fc)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-06-26 00:06:216 INFO  StartPage :30 - Clicking on AcceptCookies : [[ChromeDriver: chrome on windows (0aa2b53f6a0abc910c095077edc8e397)] -> xpath: //button[normalize-space()='Accept additional cookies']]
+2024-06-26 00:06:282 INFO  StartPage :35 - Mouse hovering on hide this message text : [[ChromeDriver: chrome on windows (0aa2b53f6a0abc910c095077edc8e397)] -> xpath: //button[@class='gem-c-cookie-banner__hide-button govuk-button']]
+2024-06-26 00:06:449 INFO  StartPage :40 - Clicking on Start button : [[ChromeDriver: chrome on windows (0aa2b53f6a0abc910c095077edc8e397)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-06-26 00:06:725 INFO  SelectNationalityPage :25 - Click on '[[ChromeDriver: chrome on windows (0aa2b53f6a0abc910c095077edc8e397)] -> id: response]' tab
+2024-06-26 00:06:874 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (0aa2b53f6a0abc910c095077edc8e397)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-26 00:06:995 INFO  ReasonForTravelPage :33 - Click on '[[ChromeDriver: chrome on windows (0aa2b53f6a0abc910c095077edc8e397)] -> id: response-0]' tab
+2024-06-26 00:06:183 INFO  ReasonForTravelPage :43 - Click on '[[ChromeDriver: chrome on windows (0aa2b53f6a0abc910c095077edc8e397)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-26 00:06:187 INFO  ResultPage :26 - Checking text is Displayed
+2024-06-26 00:06:775 INFO  StartPage :30 - Clicking on AcceptCookies : [[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> xpath: //button[normalize-space()='Accept additional cookies']]
+2024-06-26 00:06:828 INFO  StartPage :35 - Mouse hovering on hide this message text : [[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> xpath: //button[@class='gem-c-cookie-banner__hide-button govuk-button']]
+2024-06-26 00:06:963 INFO  StartPage :40 - Clicking on Start button : [[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-06-26 00:06:242 INFO  SelectNationalityPage :25 - Click on '[[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> id: response]' tab
+2024-06-26 00:06:386 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-26 00:06:525 INFO  ReasonForTravelPage :48 - Click on '[[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> id: response-1]' tab
+2024-06-26 00:06:666 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-26 00:06:787 INFO  DurationOfStayPage :28 - Click on : longer than 6 monthsmore or less
+2024-06-26 00:06:951 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-26 00:06:37 INFO  WorkTypePage :18 - Click on '[[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> id: response-0]' tab
+2024-06-26 00:06:205 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (aff2794bad511f8217fb3005d3a0d46b)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-26 00:06:209 INFO  ResultPage :31 - Checking text is Displayed
+2024-06-26 00:06:775 INFO  StartPage :30 - Clicking on AcceptCookies : [[ChromeDriver: chrome on windows (c941ec43acace27476f16398f8d7f26f)] -> xpath: //button[normalize-space()='Accept additional cookies']]
+2024-06-26 00:06:834 INFO  StartPage :35 - Mouse hovering on hide this message text : [[ChromeDriver: chrome on windows (c941ec43acace27476f16398f8d7f26f)] -> xpath: //button[@class='gem-c-cookie-banner__hide-button govuk-button']]
+2024-06-26 00:06:977 INFO  StartPage :40 - Clicking on Start button : [[ChromeDriver: chrome on windows (c941ec43acace27476f16398f8d7f26f)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2024-06-26 00:06:258 INFO  SelectNationalityPage :25 - Click on '[[ChromeDriver: chrome on windows (c941ec43acace27476f16398f8d7f26f)] -> id: response]' tab
+2024-06-26 00:06:404 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (c941ec43acace27476f16398f8d7f26f)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-26 00:06:547 INFO  ReasonForTravelPage :38 - Click on '[[ChromeDriver: chrome on windows (c941ec43acace27476f16398f8d7f26f)] -> id: response-4]' tab
+2024-06-26 00:06:770 INFO  SelectNationalityPage :30 - Click on '[[ChromeDriver: chrome on windows (c941ec43acace27476f16398f8d7f26f)] -> xpath: //button[normalize-space()='Continue']]' tab
+2024-06-26 00:06:773 INFO  ResultPage :36 - Checking text is Displayed
